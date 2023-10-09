@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - elevationMarker
+  - notVeg
+  - fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tiles
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2727641005
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 1990623081
+    locked: 0
+  - name: Icons
+    uniqueID: 958752889
+    locked: 0
+  - name: TileBase
+    uniqueID: 2446176373
+    locked: 0
+  - name: Tiles
+    uniqueID: 2271509539
+    locked: 0
+  - name: TileLabels
+    uniqueID: 475961991
+    locked: 0
